@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon="C:\Users\adity\Documents\Python Projects\Calculator\logo.png" -w "C:\Users\adity\Documents\Python Projects\Calculator\main.py"
